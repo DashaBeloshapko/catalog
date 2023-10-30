@@ -1,0 +1,47 @@
+body {
+    width: 1440px;
+    text-align: center;
+}
+.link__a {
+    padding: 20px;
+    text-transform: uppercase;
+}
+.section {
+    padding: 40px;
+    display: flex;
+    gap: 10px;
+}
+.section__block__picture {
+    position: absolute;
+}
+.section__block {
+    
+}
+h3 {
+    text-align: left;
+}
+.section__block__1 {
+    width: 396px;
+    height: 396px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+    z-index: 1;
+}
+.basement {
+    display: flex;
+    text-align: center;
+}
+.section__block__button {
+    width: 246px;
+    height: 48px;
+    background-color: white;
+    border: none;    
+}
